@@ -1,4 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="Avoid overly verbose descriptions or unnecessary details.&#10;Use Conventional Commit format&#10;Use bullet points for multiple changes&#10;" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c903f860-f345-45f1-b3df-3a09d21eaf30" name="Changes" comment="feat: initialize Kotlin Gradle project&#10;&#10;- Add Gradle build script (`build.gradle.kts`) and settings (`settings.gradle.kts`)&#10;- Configure Kotlin JVM toolchain and dependencies&#10;- Add Gradle wrapper scripts and properties&#10;- Set up Kotlin source structure with a basic `Main.kt`&#10;- Add `.gitignore` for Gradle, IntelliJ, VS Code, and other environments">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Wepwawet" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2wdjvmgjvECNfH5YvtCafgA1uRY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Wepwawet.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Work/me/Wepwawet/src/main/kotlin/Main.kt",
+    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="re.fazanwolf.Wepwawet.MainKt" />
+      <module name="Wepwawet.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c903f860-f345-45f1-b3df-3a09d21eaf30" name="Changes" comment="" />
+      <created>1746378578094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746378578094</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: initialize Kotlin Gradle project&#10;&#10;- Add Gradle build script (`build.gradle.kts`) and settings (`settings.gradle.kts`)&#10;- Configure Kotlin JVM toolchain and dependencies&#10;- Add Gradle wrapper scripts and properties&#10;- Set up Kotlin source structure with a basic `Main.kt`&#10;- Add `.gitignore` for Gradle, IntelliJ, VS Code, and other environments">
+      <option name="closed" value="true" />
+      <created>1746378840180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746378840180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: initialize Kotlin Gradle project&#10;&#10;- Add Gradle build script (`build.gradle.kts`) and settings (`settings.gradle.kts`)&#10;- Configure Kotlin JVM toolchain and dependencies&#10;- Add Gradle wrapper scripts and properties&#10;- Set up Kotlin source structure with a basic `Main.kt`&#10;- Add `.gitignore` for Gradle, IntelliJ, VS Code, and other environments" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: initialize Kotlin Gradle project&#10;&#10;- Add Gradle build script (`build.gradle.kts`) and settings (`settings.gradle.kts`)&#10;- Configure Kotlin JVM toolchain and dependencies&#10;- Add Gradle wrapper scripts and properties&#10;- Set up Kotlin source structure with a basic `Main.kt`&#10;- Add `.gitignore` for Gradle, IntelliJ, VS Code, and other environments" />
+  </component>
 </project>
